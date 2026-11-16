@@ -5,7 +5,11 @@ Author: Sajel Amin
 
 A reproducible molecular clock analysis of 24
 SARS-CoV-2 genomes, for BIOL 5/6800.
-
+# git status
+# git add file name
+# git committ -m "name of what you did"
+# git push (backs up proj)11p
+# Q for quit if anything goes wrong
 
 This repository is a starting point for your own computational biology
 project.
